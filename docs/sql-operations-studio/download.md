@@ -117,7 +117,7 @@ ms.lasthandoff: 05/10/2018
 
 ## <a name="uninstall-sql-operations-studio-preview"></a>解除安裝 SQL Operations Studio (preview)
 
-如果您已安裝[!INCLUDE[name-sos-short](../includes/name-sos-short.md)]使用 Windows installer，然後解除安裝移除所有 Windows 應用程式的方式相同。
+如果您已使用 Windows installer 安裝[!INCLUDE[name-sos-short](../includes/name-sos-short.md)]，解除安裝方式與所有 Windows 應用程式移除方式相同。
 
 如果您已安裝[!INCLUDE[name-sos-short](../includes/name-sos-short.md)].zip 或其他封存，然後只要刪除檔案。
 
