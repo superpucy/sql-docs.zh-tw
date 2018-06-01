@@ -77,7 +77,7 @@ ms.locfileid: "34473822"
    - 修正[問題 1070](https://github.com/Microsoft/sqlopsstudio/issues/1070)： 伺服器群組現在需要按兩下以展開。
    - 修正[問題 1072](https://github.com/Microsoft/sqlopsstudio/issues/1072)： 選取控制項的背景是半透明效果。
    - 修正[問題 1115](https://github.com/Microsoft/sqlopsstudio/issues/1115)： 修正所有的高對比 SQL 作業 Studio 中的協助工具問題。
-   - 修正[問題 1101](https://github.com/Microsoft/sqlopsstudio/issues/1101)： 擴充功能無法升級 」 下載手動"連結會移至錯誤的位置。
+   - 修正[問題 1101](https://github.com/Microsoft/sqlopsstudio/issues/1101)： 擴充功能無法升級[下載手動]連結會移至錯誤的位置。
    - 修正[問題 1103](https://github.com/Microsoft/sqlopsstudio/issues/1103)： 無法在 [首頁] 索引標籤上運作的 V 捲軸。
    - 修正[問題 1104](https://github.com/Microsoft/sqlopsstudio/issues/1104): SQL 延伸模組索引標籤停止運作。
 
