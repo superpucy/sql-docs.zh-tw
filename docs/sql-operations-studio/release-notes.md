@@ -45,7 +45,7 @@ ms.locfileid: "34473822"
    - 修正[問題 1260](https://github.com/Microsoft/sqlopsstudio/issues/1260)： 關鍵字 'distinct' 非反白顯示
    - 修正[問題 1332](https://github.com/Microsoft/sqlopsstudio/issues/1332)： 編輯資料還原不適用於資料列
    - 修正[問題 1215](https://github.com/Microsoft/sqlopsstudio/issues/1215): SQL 代理程式擴充功能和狀態列
-   - 修正[問題 1316](https://github.com/Microsoft/sqlopsstudio/issues/1316): SQL 代理程式不要調整大小之後變更視窗大小
+   - 修正[問題 1316](https://github.com/Microsoft/sqlopsstudio/issues/1316): 在視窗大小改變後，SQL Agent 不會隨之調整大小
 
 
 如需詳細資訊，請參閱[變更記錄](https://github.com/Microsoft/sqlopsstudio/blob/master/CHANGELOG.md)，和[版本](https://github.com/Microsoft/sqlopsstudio/releases)。
