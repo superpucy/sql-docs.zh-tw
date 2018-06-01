@@ -98,7 +98,7 @@ ms.locfileid: "34473822"
 - [置中的編輯器配置](https://code.visualstudio.com/updates/v1_21#_centered-editor-layout)-將您的程式碼檢視螢幕面積最大化。
 - [水平的搜尋結果 （預覽）](https://code.visualstudio.com/updates/v1_21#_horizontal-search) -您可以在水平台中現在檢視搜尋結果。
 
-如需詳細資訊，簽出[Visual Studio 程式碼年 2 月版本資訊](https://code.visualstudio.com/updates/v1_21)，而[Visual Studio 程式碼年 1 月版本資訊](https://code.visualstudio.com/updates/v1_20)。
+如需詳細資訊，簽出[Visual Studio Code 2 月版本資訊](https://code.visualstudio.com/updates/v1_21)，而[Visual Studio Code 1 月版本資訊](https://code.visualstudio.com/updates/v1_20)。
 
 如需詳細資訊，請參閱[變更記錄](https://github.com/Microsoft/sqlopsstudio/blob/master/CHANGELOG.md)。
 
