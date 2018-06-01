@@ -76,7 +76,7 @@ ms.locfileid: "34473822"
    - 修正[問題 1069](https://github.com/Microsoft/sqlopsstudio/issues/1069)： 連接對話方塊顯示時最初顯示的所需的伺服器錯誤。
    - 修正[問題 1070](https://github.com/Microsoft/sqlopsstudio/issues/1070)： 伺服器群組現在需要按兩下以展開。
    - 修正[問題 1072](https://github.com/Microsoft/sqlopsstudio/issues/1072)： 選取控制項的背景是半透明效果。
-   - 修正[問題 1115](https://github.com/Microsoft/sqlopsstudio/issues/1115)： 修正所有的高對比 SQL 作業 Studio 中的協助工具問題。
+   - 修正[問題 1115](https://github.com/Microsoft/sqlopsstudio/issues/1115)： 修正所有的高對比 SQL Operations Studio 中的協助工具問題。
    - 修正[問題 1101](https://github.com/Microsoft/sqlopsstudio/issues/1101)： 擴充功能無法升級 」 下載手動"連結會移至錯誤的位置。
    - 修正[問題 1103](https://github.com/Microsoft/sqlopsstudio/issues/1103)： 無法在 [首頁] 索引標籤上運作的 V 捲軸。
    - 修正[問題 1104](https://github.com/Microsoft/sqlopsstudio/issues/1104): SQL 延伸模組索引標籤停止運作。
@@ -84,7 +84,7 @@ ms.locfileid: "34473822"
 
 4 月公開預覽的重點為 Visual Studio Code 1.21 平台來源程式碼重新整理。 這會從先前的 1.19 同步處理點帶入多項更新至核心編輯器和工作臺。 以下為部分範例：
 
-- [新的通知 UI](https://code.visualstudio.com/updates/v1_21#_new-notifications-ui) -輕鬆地管理與檢閱 SQL 作業 Studio 通知。
+- [新的通知 UI](https://code.visualstudio.com/updates/v1_21#_new-notifications-ui) -輕鬆地管理與檢閱 SQL Operations Studio 通知。
 - [整合終端機分割](https://code.visualstudio.com/updates/v1_21#_split-terminals)-一次使用多個開啟的終端機。
 - [儲存大型和受保護的檔案](https://code.visualstudio.com/updates/v1_20#_save-files-that-need-admin-privileges)-儲存受保護的系統管理員和 > 在 SQL 作業 Studio 256 M 檔案。
 - [改善大型檔案支援](https://code.visualstudio.com/updates/v1_21#_text-buffer-improvements)-大型檔案的文字緩衝區最佳化。
@@ -92,7 +92,7 @@ ms.locfileid: "34473822"
 - [全域程式碼片段](https://code.visualstudio.com/updates/v1_20#_global-snippets)層建立程式碼片段，您可以跨所有檔案類型使用。
 - [總管 中複選](https://code.visualstudio.com/updates/v1_20#_multi-select-in-the-explorer)-多個檔案上一次執行的動作。
 - [錯誤和警告，在 [總管]](https://code.visualstudio.com/updates/v1_20#_error-indicators-in-the-explorer) -可以快速地瀏覽至您的程式碼基底中的錯誤。
-- [拖曳和卸除、 複製和貼上整個 windows](https://code.visualstudio.com/updates/v1_21#_better-drag-and-drop-support) -在開啟的 SQL 作業 Studio 視窗之間移動檔案。
+- [拖曳和卸除、 複製和貼上整個 windows](https://code.visualstudio.com/updates/v1_21#_better-drag-and-drop-support) -在開啟的 SQL Operations Studio 視窗之間移動檔案。
 - [Git 子模組支援](https://code.visualstudio.com/updates/v1_20#_git-submodules)-巢狀的 Git 儲存機制上的執行 Git 作業。
 - [終端機螢幕讀取器支援](https://code.visualstudio.com/updates/v1_20#_screen-reader-support)-整合式終端機現在有 「 螢幕的讀取器最佳化 」 模式。
 - [置中的編輯器配置](https://code.visualstudio.com/updates/v1_21#_centered-editor-layout)-將您的程式碼檢視螢幕面積最大化。
@@ -112,7 +112,7 @@ ms.locfileid: "34473822"
 - 增強的支援索引標籤式的深入資訊和組態窗格的儀表板擴充性模型。
    - 擴充管理員可讓簡單擷取的延伸模組。
    - 儀表板延伸從 sp_whoisactive [whoisactive.com](http://www.whoisactive.com)。
-   - 如需詳細資訊，請參閱[擴充功能的 SQL 作業 Studio](extensions.md)。
+   - 如需詳細資訊，請參閱[擴充功能的 SQL Operations Studio](extensions.md)。
 - 請加入更多[連線和物件總管 中的擴充性 Api](https://github.com/Microsoft/sqlopsstudio/wiki/Extensibility-API)管理。
 - 若要修正重要影響的客戶繼續[GitHub 問題](https://github.com/Microsoft/sqlopsstudio/issues)。
 
