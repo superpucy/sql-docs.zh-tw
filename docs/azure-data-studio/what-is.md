@@ -53,7 +53,7 @@ T-SQL 程式碼片段會產生適當的 T-SQL 語法來建立資料庫、 資料
 
 增強[!INCLUDE[name-sos](../includes/name-sos-short.md)]擴充功能的基底的安裝體驗。 [!INCLUDE[name-sos](../includes/name-sos-short.md)] 資料管理活動，以及支援擴充功能撰寫提供擴充點。
 
-若要了解中的擴充性[!INCLUDE[name-sos](../includes/name-sos-short.md)]，請參閱 <<c2> [ 擴充性](extensibility.md)。
+若要了解中的擴充性[!INCLUDE[name-sos](../includes/name-sos-short.md)]，請參閱 <c2> [擴充性](extensibility.md)。
 若要深入了解撰寫延伸模組，請參閱[延伸模組製作](extension-authoring.md)。
 
 
